@@ -4,7 +4,6 @@ exports.decorateConfig = (config) => {
       css: `
         .header_shorcut {
             height: 34px;
-            width: 100%;
             position: absolute;
             left: 40px;
             top: 0px;
